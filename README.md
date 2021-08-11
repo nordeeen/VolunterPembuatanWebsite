@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan we
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**  
 
 - **Revaldi Afrian**, [Linkedin](https://www.linkedin.com/in)
+-  **Ainun Septian**, [Github](https://www.github.com/in)
